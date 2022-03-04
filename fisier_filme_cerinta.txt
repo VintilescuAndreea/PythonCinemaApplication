@@ -1,0 +1,6 @@
+Titlul: American Beauty, durata: 122, varsta minima: 12
+Titlul: The Curious Case of Benjamin Button, durata: 166, varsta minima: 15
+Titlul: Hachiko: A Dog's Story, durata: 93, varsta minima: 12
+Titlul: Madagascar, durata: 86, dublat in limba: romana
+Titlul: Ratatouille, durata: 110, dublat in limba: engleza
+Titlul: Shrek, durata: 92, dublat in limba: romana

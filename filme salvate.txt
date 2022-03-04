@@ -1,0 +1,4 @@
+Titlul: "Drama1", durata: 90, varsta minima: 12
+Titlul: "Drama2", durata: 100, varsta minima: 15
+Titlul: "Animatie1", durata: 110, dublat in limba: romana
+Titlul: "Animatie2", durata: 120, dublat in limba: engleza
